@@ -1,0 +1,2092 @@
+[
+  {
+    "id": "stella:1000 TWISTS:7300",
+    "collection": "1000 TWISTS",
+    "reference": "7300",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7300.jpg",
+    "sourceFilename": "7300.jpg",
+    "sha256": "a236197a84fd15dcceda13964a716fe581e0dcec604a93100d4bb69d4c8e460b",
+    "imageUrl": "/manus-storage/7300_103e24c0.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7301",
+    "collection": "1000 TWISTS",
+    "reference": "7301",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7301.jpg",
+    "sourceFilename": "7301.jpg",
+    "sha256": "7bb30e111f9e8c75d612f410712408ab7a31de15824630032e60ee7d33a69592",
+    "imageUrl": "/manus-storage/7301_a4160543.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7302",
+    "collection": "1000 TWISTS",
+    "reference": "7302",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7302.jpg",
+    "sourceFilename": "7302.jpg",
+    "sha256": "d0ecafe88592e1849df3d8f363f83f484bd0b93ac857bdc84ce4e813f5355b01",
+    "imageUrl": "/manus-storage/7302_65b264da.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7303",
+    "collection": "1000 TWISTS",
+    "reference": "7303",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7303.jpg",
+    "sourceFilename": "7303.jpg",
+    "sha256": "ed91761fea5764a2e36bce306b51c9697d3d26795f7734fe6267111bfc1d1257",
+    "imageUrl": "/manus-storage/7303_a3463bcc.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7304",
+    "collection": "1000 TWISTS",
+    "reference": "7304",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7304.jpg",
+    "sourceFilename": "7304.jpg",
+    "sha256": "4b70e3a5538141dd3b03d9dc0a6e7398432c7af962ea83950b4392b2e38671ab",
+    "imageUrl": "/manus-storage/7304_85de59c1.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7305",
+    "collection": "1000 TWISTS",
+    "reference": "7305",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7305.jpg",
+    "sourceFilename": "7305.jpg",
+    "sha256": "069fd8fc5d036d4f4792f7df784805275e07149c34ae82221909396be8b834d2",
+    "imageUrl": "/manus-storage/7305_05c899ce.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7306",
+    "collection": "1000 TWISTS",
+    "reference": "7306",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7306.jpg",
+    "sourceFilename": "7306.jpg",
+    "sha256": "fd0f885b83b8385615692686ed953e217bbac6084f90949515119446b143b5da",
+    "imageUrl": "/manus-storage/7306_e50f60c7.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7307",
+    "collection": "1000 TWISTS",
+    "reference": "7307",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7307.jpg",
+    "sourceFilename": "7307.jpg",
+    "sha256": "ccc9c30c66caae0cb9cff1f86db5be845a0d719141b9173460c260e27b3d3935",
+    "imageUrl": "/manus-storage/7307_41889986.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7308",
+    "collection": "1000 TWISTS",
+    "reference": "7308",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7308.jpg",
+    "sourceFilename": "7308.jpg",
+    "sha256": "e9ec10fce2a4e105ecdc733fe5d8c01e2570b094aab874ebc13511b43c5c5471",
+    "imageUrl": "/manus-storage/7308_d37b785b.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7309",
+    "collection": "1000 TWISTS",
+    "reference": "7309",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7309.jpg",
+    "sourceFilename": "7309.jpg",
+    "sha256": "286141a7194b608b5eacae99d605bd2c49c735108076e99a29b86efb448541b5",
+    "imageUrl": "/manus-storage/7309_fd1c337f.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7310",
+    "collection": "1000 TWISTS",
+    "reference": "7310",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7310.jpg",
+    "sourceFilename": "7310.jpg",
+    "sha256": "3c52291ee4ecbcebf729d0d6922d32d7bfe5972b2c9a9f03cfd0940dde69060a",
+    "imageUrl": "/manus-storage/7310_714acaf9.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7311",
+    "collection": "1000 TWISTS",
+    "reference": "7311",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7311.jpg",
+    "sourceFilename": "7311.jpg",
+    "sha256": "c19e071fc70c2881826ae9aa947b1e00bf6bc2c34ed15f476c4bb6cee3358f57",
+    "imageUrl": "/manus-storage/7311_43ee2f50.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7312",
+    "collection": "1000 TWISTS",
+    "reference": "7312",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7312.jpg",
+    "sourceFilename": "7312.jpg",
+    "sha256": "d5fcf2e2420c078a5020bb837ffb507c77d556b64b5b7f116479f3eeba806a06",
+    "imageUrl": "/manus-storage/7312_2631dd5c.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7313",
+    "collection": "1000 TWISTS",
+    "reference": "7313",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7313.jpg",
+    "sourceFilename": "7313.jpg",
+    "sha256": "903153ddba66711d5743d1d7aebe383c224986249289c9427b003554b14ddfe1",
+    "imageUrl": "/manus-storage/7313_dd09f17b.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7314",
+    "collection": "1000 TWISTS",
+    "reference": "7314",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7314.jpg",
+    "sourceFilename": "7314.jpg",
+    "sha256": "81b59ee76990f89fc084742124528a700a44d5007efb9788db41302b44a220c6",
+    "imageUrl": "/manus-storage/7314_aed0fd9a.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7315",
+    "collection": "1000 TWISTS",
+    "reference": "7315",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7315.jpg",
+    "sourceFilename": "7315.jpg",
+    "sha256": "fcbf1b6a831c3c5fb0b5901c5fc5f4d2a868d83a4e0da6025df512910c21752c",
+    "imageUrl": "/manus-storage/7315_bc47ce25.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7316",
+    "collection": "1000 TWISTS",
+    "reference": "7316",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7316.jpg",
+    "sourceFilename": "7316.jpg",
+    "sha256": "ecff708ac87f4a7ac3c0213a986098c83d947d17289e324fb058e1f6356e79ea",
+    "imageUrl": "/manus-storage/7316_e6a83631.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7317",
+    "collection": "1000 TWISTS",
+    "reference": "7317",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7317.jpg",
+    "sourceFilename": "7317.jpg",
+    "sha256": "a6465025abcdad12a598277a1e4e9b8e2c4f120bc06b3fe66855198362c1f1d3",
+    "imageUrl": "/manus-storage/7317_7ffcf498.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7318",
+    "collection": "1000 TWISTS",
+    "reference": "7318",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7318.jpg",
+    "sourceFilename": "7318.jpg",
+    "sha256": "d45dbd76192ce3dccc52a51cf4c81871cfb0b504728bd14e16dcda6d2e49d5bf",
+    "imageUrl": "/manus-storage/7318_c78c883b.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7319",
+    "collection": "1000 TWISTS",
+    "reference": "7319",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7319.jpg",
+    "sourceFilename": "7319.jpg",
+    "sha256": "9ea6fd6c70f323cf5623fccd65f633dcff585e48024144157c5e9d7188a0fb1b",
+    "imageUrl": "/manus-storage/7319_5e15190d.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7320",
+    "collection": "1000 TWISTS",
+    "reference": "7320",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7320.jpg",
+    "sourceFilename": "7320.jpg",
+    "sha256": "966c33d33ebe61aabdeb06f5a9d87b3b31dcbfae961b4740aa4db799e07816ea",
+    "imageUrl": "/manus-storage/7320_d2a9247d.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7321",
+    "collection": "1000 TWISTS",
+    "reference": "7321",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7321.jpg",
+    "sourceFilename": "7321.jpg",
+    "sha256": "6444974590cbd88a9bd130a62d5e75c8ae54d8ce4d4aa468c22c08507b70cb1a",
+    "imageUrl": "/manus-storage/7321_9b5d2762.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7322",
+    "collection": "1000 TWISTS",
+    "reference": "7322",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7322.jpg",
+    "sourceFilename": "7322.jpg",
+    "sha256": "812e052da8f4d3403e8b7dda83ded3635330160da3703802eb025c72fd2d097b",
+    "imageUrl": "/manus-storage/7322_06a3675d.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7323",
+    "collection": "1000 TWISTS",
+    "reference": "7323",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7323.jpg",
+    "sourceFilename": "7323.jpg",
+    "sha256": "37154b2a52d54fdecda85dff52f23e3718c1bdc7460ae79ff2bdb4fb340c9dd9",
+    "imageUrl": "/manus-storage/7323_41a9c6b7.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7324",
+    "collection": "1000 TWISTS",
+    "reference": "7324",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7324.jpg",
+    "sourceFilename": "7324.jpg",
+    "sha256": "9784b7098e27b759b1c0f73a5adc1e5eda7a6de5140bb5fbdcaafd8a5e20aef5",
+    "imageUrl": "/manus-storage/7324_22fd3112.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7325",
+    "collection": "1000 TWISTS",
+    "reference": "7325",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7325.jpg",
+    "sourceFilename": "7325.jpg",
+    "sha256": "27631da2ee7aff40ab0b7909aa6d83f5a5cc5ebfc1275c5227b65ec2dd576f01",
+    "imageUrl": "/manus-storage/7325_23de9f7e.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7326",
+    "collection": "1000 TWISTS",
+    "reference": "7326",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7326.jpg",
+    "sourceFilename": "7326.jpg",
+    "sha256": "1a1b300f6c4210a838c6ac880bc058d567fdad179ea2eb3b954216aa5a586681",
+    "imageUrl": "/manus-storage/7326_9e3f5097.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7327",
+    "collection": "1000 TWISTS",
+    "reference": "7327",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7327.jpg",
+    "sourceFilename": "7327.jpg",
+    "sha256": "079efb29065b6b7708c12057c17405a874cb56be6f19d1b9a8f2cc06ecfc6997",
+    "imageUrl": "/manus-storage/7327_fd8996a4.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7328",
+    "collection": "1000 TWISTS",
+    "reference": "7328",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7328.jpg",
+    "sourceFilename": "7328.jpg",
+    "sha256": "4db9ee0728b6cbc625c4c8db284b46c3ef0d0b380c67fceb0541cf1c4f6d83dd",
+    "imageUrl": "/manus-storage/7328_cb4aa121.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7329",
+    "collection": "1000 TWISTS",
+    "reference": "7329",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7329.jpg",
+    "sourceFilename": "7329.jpg",
+    "sha256": "9b9cd7673ff7adb9f1688c670309a093298703a0e6c84ac3179834d9a3fcfa19",
+    "imageUrl": "/manus-storage/7329_0d69a635.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7330",
+    "collection": "1000 TWISTS",
+    "reference": "7330",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7330.jpg",
+    "sourceFilename": "7330.jpg",
+    "sha256": "239be232a82d50d83edfe73db06450cf5383826499412a7a3a26096cef740762",
+    "imageUrl": "/manus-storage/7330_187c357e.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7331",
+    "collection": "1000 TWISTS",
+    "reference": "7331",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7331.jpg",
+    "sourceFilename": "7331.jpg",
+    "sha256": "93e203677402db01b1041929b0d7c6ec0d80ddeebce2bf067e39303553d7eb97",
+    "imageUrl": "/manus-storage/7331_afaf501c.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7332",
+    "collection": "1000 TWISTS",
+    "reference": "7332",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7332.jpg",
+    "sourceFilename": "7332.jpg",
+    "sha256": "2e89782b2a0c017f4bb98d2e5902f1c5298bdf56f64e2b454e8fc384886c4265",
+    "imageUrl": "/manus-storage/7332_fad03203.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7333",
+    "collection": "1000 TWISTS",
+    "reference": "7333",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7333.jpg",
+    "sourceFilename": "7333.jpg",
+    "sha256": "1088b0dd148ebbe387b63448a0f5e0ef5fe36fddae01e9095e57e0afedb87f3c",
+    "imageUrl": "/manus-storage/7333_99a1b956.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7334",
+    "collection": "1000 TWISTS",
+    "reference": "7334",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7334.jpg",
+    "sourceFilename": "7334.jpg",
+    "sha256": "7ab56a824591c673a1f5f102dbfebc2a003c8a354553bfaba56cb83a7cb7274c",
+    "imageUrl": "/manus-storage/7334_1f6fa9ed.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7335",
+    "collection": "1000 TWISTS",
+    "reference": "7335",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7335.jpg",
+    "sourceFilename": "7335.jpg",
+    "sha256": "1be24911765a7ede5105fa2c9aff69800c49e773aaa26115bed74021bb2a3335",
+    "imageUrl": "/manus-storage/7335_2afbdfec.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7336",
+    "collection": "1000 TWISTS",
+    "reference": "7336",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7336.jpg",
+    "sourceFilename": "7336.jpg",
+    "sha256": "d64af908dab6db18db3a9338b390328581c6e2003abc15d022139bd3be17d5d3",
+    "imageUrl": "/manus-storage/7336_4a949154.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7337",
+    "collection": "1000 TWISTS",
+    "reference": "7337",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7337.jpg",
+    "sourceFilename": "7337.jpg",
+    "sha256": "b958e6525ae997c782244ed6f34b87e3a415cd12ecaaadbea50e3c6215bedf54",
+    "imageUrl": "/manus-storage/7337_529d1d43.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7338",
+    "collection": "1000 TWISTS",
+    "reference": "7338",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7338.jpg",
+    "sourceFilename": "7338.jpg",
+    "sha256": "c2370f5b13fec2cba056de77ba9039c0f00b84e7ede1135dc394d59a5741ae7c",
+    "imageUrl": "/manus-storage/7338_e01c60ce.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7339",
+    "collection": "1000 TWISTS",
+    "reference": "7339",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7339.jpg",
+    "sourceFilename": "7339.jpg",
+    "sha256": "854b89636f568acccb297ade8347048a2f49fdd42e4fab71faf4b364ea3eb133",
+    "imageUrl": "/manus-storage/7339_6bd439b3.jpg"
+  },
+  {
+    "id": "stella:1000 TWISTS:7340",
+    "collection": "1000 TWISTS",
+    "reference": "7340",
+    "sourceArchive": "1000TWISTS.zip",
+    "sourceMember": "1000 TWISTS/7340.jpg",
+    "sourceFilename": "7340.jpg",
+    "sha256": "3ee2fee07a81d848ace6d4c7d449d66b3f0fceb091ffb491a09a257a8a4306b6",
+    "imageUrl": "/manus-storage/7340_08c7d0e3.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2701",
+    "collection": "HERITAGE",
+    "reference": "2701",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2701.jpg",
+    "sourceFilename": "2701.jpg",
+    "sha256": "6850d19ac6dc747248657b363be75431c34cae6edf59f8fa0669c045bea34d0e",
+    "imageUrl": "/manus-storage/2701_3153b863.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2702",
+    "collection": "HERITAGE",
+    "reference": "2702",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2702.jpg",
+    "sourceFilename": "2702.jpg",
+    "sha256": "d78e6a8c5a00703eb722ca149fe6f460f3a86ce5a8970319ce980f502f3c981c",
+    "imageUrl": "/manus-storage/2702_40594f31.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2703",
+    "collection": "HERITAGE",
+    "reference": "2703",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2703.jpg",
+    "sourceFilename": "2703.jpg",
+    "sha256": "b3b6d9fd9e3c35d5e2e3539feb92f742f44fbd4d7c2d25a8db922a1b1a1265c3",
+    "imageUrl": "/manus-storage/2703_a337bb28.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2704",
+    "collection": "HERITAGE",
+    "reference": "2704",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2704.jpg",
+    "sourceFilename": "2704.jpg",
+    "sha256": "acaf4ef718080d2b73f7bd339199e2e5208fa7f1c1eef9b5d034327a03de869d",
+    "imageUrl": "/manus-storage/2704_b95c0063.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2705",
+    "collection": "HERITAGE",
+    "reference": "2705",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2705.jpg",
+    "sourceFilename": "2705.jpg",
+    "sha256": "79d0a42acd1ded0c3bc461efdd79a81e9513b6a63aac9ac9cc26887ba242a526",
+    "imageUrl": "/manus-storage/2705_eba58c5f.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2706",
+    "collection": "HERITAGE",
+    "reference": "2706",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2706.jpg",
+    "sourceFilename": "2706.jpg",
+    "sha256": "28e4fc1d0f9093e317e35ea570f742c9795f820e646a7440c3317188da0967f8",
+    "imageUrl": "/manus-storage/2706_fe70bec6.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2707",
+    "collection": "HERITAGE",
+    "reference": "2707",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2707.jpg",
+    "sourceFilename": "2707.jpg",
+    "sha256": "af7347420fbf111c2e0013c9465510d94a5d43f6f7fdf1a0eaf0f26cb78b2eb6",
+    "imageUrl": "/manus-storage/2707_181d7b02.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2708",
+    "collection": "HERITAGE",
+    "reference": "2708",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2708.jpg",
+    "sourceFilename": "2708.jpg",
+    "sha256": "d16144aab9b71632df91b6928b3186622d5b3cf5dd499adcd67146f821f626c4",
+    "imageUrl": "/manus-storage/2708_86b1d4e7.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2709A",
+    "collection": "HERITAGE",
+    "reference": "2709A",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2709A.jpg",
+    "sourceFilename": "2709A.jpg",
+    "sha256": "22daf028d25fec2ef6f4525594a625e7ce31a325241840dcf5a06eafe810fdc0",
+    "imageUrl": "/manus-storage/2709A_f8e5e191.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2710",
+    "collection": "HERITAGE",
+    "reference": "2710",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2710.jpg",
+    "sourceFilename": "2710.jpg",
+    "sha256": "22daf028d25fec2ef6f4525594a625e7ce31a325241840dcf5a06eafe810fdc0",
+    "imageUrl": "/manus-storage/2710_b4cb5417.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2711",
+    "collection": "HERITAGE",
+    "reference": "2711",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2711.jpg",
+    "sourceFilename": "2711.jpg",
+    "sha256": "0d7e7bef64445d2d9c566f80bca8cac7faee1217fce377b3ae24acc159765932",
+    "imageUrl": "/manus-storage/2711_5bc0907c.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:2712",
+    "collection": "HERITAGE",
+    "reference": "2712",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/2712.jpg",
+    "sourceFilename": "2712.jpg",
+    "sha256": "2c749068211839d53e6e94788a0d7fb3289f5103298e42e0b5a1051c162d45e8",
+    "imageUrl": "/manus-storage/2712_6be18ba0.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3901",
+    "collection": "HERITAGE",
+    "reference": "3901",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3901.jpg",
+    "sourceFilename": "3901.jpg",
+    "sha256": "83ee5e821bdf32d9455fbdf7f76c7ec34c6dbf62e444ee67aa929af738292743",
+    "imageUrl": "/manus-storage/3901_f7c68624.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3902",
+    "collection": "HERITAGE",
+    "reference": "3902",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3902.jpg",
+    "sourceFilename": "3902.jpg",
+    "sha256": "78fc60caa5546b9fe7cef7b66089e8c15b75079b8363e2b3ff678196cf019523",
+    "imageUrl": "/manus-storage/3902_ad96f091.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3903",
+    "collection": "HERITAGE",
+    "reference": "3903",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3903.jpg",
+    "sourceFilename": "3903.jpg",
+    "sha256": "3a8fc75cbdb31e5296fba498b83b48db3bf1d33c34f43efda8ba560d66af8aba",
+    "imageUrl": "/manus-storage/3903_8e8d2d09.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3904",
+    "collection": "HERITAGE",
+    "reference": "3904",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3904.jpg",
+    "sourceFilename": "3904.jpg",
+    "sha256": "1c1b8d737c151f330e3ad8953ec9605ad114f06b6648ef9ac9bd3220418328b3",
+    "imageUrl": "/manus-storage/3904_cac036c8.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3909",
+    "collection": "HERITAGE",
+    "reference": "3909",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3909.jpg",
+    "sourceFilename": "3909.jpg",
+    "sha256": "dd734af9bfd2113ac6a241776446cfae12e2aebece39ee0c0fd35db87c5198fb",
+    "imageUrl": "/manus-storage/3909_8d98bf59.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3910",
+    "collection": "HERITAGE",
+    "reference": "3910",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3910.jpg",
+    "sourceFilename": "3910.jpg",
+    "sha256": "a0a03e47679964c2431014a4d07682e260f093e9b68ea3ece53e53631e10a698",
+    "imageUrl": "/manus-storage/3910_64c3dc22.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3911",
+    "collection": "HERITAGE",
+    "reference": "3911",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3911.jpg",
+    "sourceFilename": "3911.jpg",
+    "sha256": "3e31cf777b7b66cdec1b7791d88cc53e1993f297e4bbaa878d53580d3155b099",
+    "imageUrl": "/manus-storage/3911_d6d055ed.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:3912",
+    "collection": "HERITAGE",
+    "reference": "3912",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/3912.jpg",
+    "sourceFilename": "3912.jpg",
+    "sha256": "ace01ee8d493d45111c08470a138f0be687772a603626e20d4de5fa5570d51dc",
+    "imageUrl": "/manus-storage/3912_c6e6ae23.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4501",
+    "collection": "HERITAGE",
+    "reference": "4501",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4501.jpg",
+    "sourceFilename": "4501.jpg",
+    "sha256": "b0da7fe242eed9dea1adb4e51ba46d3c29bf21836c6453fdf0a094c2bea17af2",
+    "imageUrl": "/manus-storage/4501_3a3aebe2.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4502",
+    "collection": "HERITAGE",
+    "reference": "4502",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4502.jpg",
+    "sourceFilename": "4502.jpg",
+    "sha256": "f2b4ba5d44db99f862914866c29b5c3b2cfe5f93744f432b854298ae1917cc40",
+    "imageUrl": "/manus-storage/4502_d6b3758f.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4503",
+    "collection": "HERITAGE",
+    "reference": "4503",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4503.jpg",
+    "sourceFilename": "4503.jpg",
+    "sha256": "4d9485523dfebebd7d5290b710771eeff4e4d513ced1292af29f809964f51554",
+    "imageUrl": "/manus-storage/4503_70d488e4.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4504",
+    "collection": "HERITAGE",
+    "reference": "4504",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4504.jpg",
+    "sourceFilename": "4504.jpg",
+    "sha256": "252dd0af548da3d62f61ed9710a265e7d51ea41add509f9e1a4ae720866e57bb",
+    "imageUrl": "/manus-storage/4504_77783f2a.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4505",
+    "collection": "HERITAGE",
+    "reference": "4505",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4505.jpg",
+    "sourceFilename": "4505.jpg",
+    "sha256": "8961dd8eef3e4b711a71c37750dba23ebc323129b43d309e795ad8abfc0d1d0c",
+    "imageUrl": "/manus-storage/4505_1c7fde99.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4506",
+    "collection": "HERITAGE",
+    "reference": "4506",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4506.jpg",
+    "sourceFilename": "4506.jpg",
+    "sha256": "1a815caa46ed6a83c5155bab0e5119c69da825c117b28c4420fcf91b12ee0496",
+    "imageUrl": "/manus-storage/4506_4954d193.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4507",
+    "collection": "HERITAGE",
+    "reference": "4507",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4507.jpg",
+    "sourceFilename": "4507.jpg",
+    "sha256": "3f61050a7f76d66a03e312ec0a5b61bb4735ea46197c91f572a66344533c7411",
+    "imageUrl": "/manus-storage/4507_eeec7445.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4508",
+    "collection": "HERITAGE",
+    "reference": "4508",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4508.jpg",
+    "sourceFilename": "4508.jpg",
+    "sha256": "0ba657566ff98ef931735639bcf3c24bdff9f875936b731d9cc2df3951de1511",
+    "imageUrl": "/manus-storage/4508_714656d9.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4509",
+    "collection": "HERITAGE",
+    "reference": "4509",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4509.jpg",
+    "sourceFilename": "4509.jpg",
+    "sha256": "b3c3c3a0187243e0be33652cb698fb661165bf872bebc92dbd183a89d9f26d0b",
+    "imageUrl": "/manus-storage/4509_3b190253.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4510",
+    "collection": "HERITAGE",
+    "reference": "4510",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4510.jpg",
+    "sourceFilename": "4510.jpg",
+    "sha256": "9fc45853bf4a489813c072e4431479b532c6b694adcc6837f5cc151e6907a465",
+    "imageUrl": "/manus-storage/4510_10b5156d.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4511A",
+    "collection": "HERITAGE",
+    "reference": "4511A",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4511A.jpg",
+    "sourceFilename": "4511A.jpg",
+    "sha256": "8246e8491016e99e1edf2d24eb18ef01887e1288aaa3de7660dd561365210d84",
+    "imageUrl": "/manus-storage/4511A_c3e32b07.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4511B",
+    "collection": "HERITAGE",
+    "reference": "4511B",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4511B.jpg",
+    "sourceFilename": "4511B.jpg",
+    "sha256": "f9696ad1f890c7cd151461ffd6ee2b6708f9a877bf38477848236b4eee1797d6",
+    "imageUrl": "/manus-storage/4511B_83e1132c.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4512",
+    "collection": "HERITAGE",
+    "reference": "4512",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4512.jpg",
+    "sourceFilename": "4512.jpg",
+    "sha256": "8246e8491016e99e1edf2d24eb18ef01887e1288aaa3de7660dd561365210d84",
+    "imageUrl": "/manus-storage/4512_a868cf99.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4513",
+    "collection": "HERITAGE",
+    "reference": "4513",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4513.jpg",
+    "sourceFilename": "4513.jpg",
+    "sha256": "f9696ad1f890c7cd151461ffd6ee2b6708f9a877bf38477848236b4eee1797d6",
+    "imageUrl": "/manus-storage/4513_a8fbf077.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4514",
+    "collection": "HERITAGE",
+    "reference": "4514",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4514.jpg",
+    "sourceFilename": "4514.jpg",
+    "sha256": "f4e8840d7bff3538680b027eeee04ecec620e6c197dbb6652d529fe32dc8c8e1",
+    "imageUrl": "/manus-storage/4514_41d836af.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4515",
+    "collection": "HERITAGE",
+    "reference": "4515",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4515.jpg",
+    "sourceFilename": "4515.jpg",
+    "sha256": "f7849e0c643a34072a71b556d6379727c2e71ff44634aa1f53a39bc5aba66c71",
+    "imageUrl": "/manus-storage/4515_bd77b905.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4516",
+    "collection": "HERITAGE",
+    "reference": "4516",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4516.jpg",
+    "sourceFilename": "4516.jpg",
+    "sha256": "aadb68e027ad63c56668dd27b34608c0103ad62a94a4fdeb58fe34143ac91c82",
+    "imageUrl": "/manus-storage/4516_925d7972.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4517",
+    "collection": "HERITAGE",
+    "reference": "4517",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4517.jpg",
+    "sourceFilename": "4517.jpg",
+    "sha256": "ea3e65020ed87c64888f93af537f9ecb4132a1b3c1531f9c18dab6d1c3a931f2",
+    "imageUrl": "/manus-storage/4517_03051bf7.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4518",
+    "collection": "HERITAGE",
+    "reference": "4518",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4518.jpg",
+    "sourceFilename": "4518.jpg",
+    "sha256": "8a1a7bd3a3500c15db3d27086609cf74f5cd321192c0abe56d7b7fc625b43472",
+    "imageUrl": "/manus-storage/4518_af117be9.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4519",
+    "collection": "HERITAGE",
+    "reference": "4519",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4519.jpg",
+    "sourceFilename": "4519.jpg",
+    "sha256": "68a32a2e53bec2bd30acb6e0587f1e2cfcb08a209b273fd831adbb0f5c610317",
+    "imageUrl": "/manus-storage/4519_24cd23d2.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4520",
+    "collection": "HERITAGE",
+    "reference": "4520",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4520.jpg",
+    "sourceFilename": "4520.jpg",
+    "sha256": "415a3bb3294d4fb8299585f43457d0e3febc16b5bc1d953b6e068f1e962a6f1e",
+    "imageUrl": "/manus-storage/4520_4d9366bf.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4521",
+    "collection": "HERITAGE",
+    "reference": "4521",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4521.jpg",
+    "sourceFilename": "4521.jpg",
+    "sha256": "4b5d67839885512a816b2dfaee20d13b71bbf11a3a6606f4d0ade373bdf12958",
+    "imageUrl": "/manus-storage/4521_51276303.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4522",
+    "collection": "HERITAGE",
+    "reference": "4522",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4522.jpg",
+    "sourceFilename": "4522.jpg",
+    "sha256": "90a86c76896433cd92c0311039289f5e635638e1cde11b97443ad6f63d3d34a0",
+    "imageUrl": "/manus-storage/4522_2c0e825e.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4523",
+    "collection": "HERITAGE",
+    "reference": "4523",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4523.jpg",
+    "sourceFilename": "4523.jpg",
+    "sha256": "b2ad5ea8fa3bb496558a1eec6bbb7f57d0b85f5a661e044eda32f846ac1f577f",
+    "imageUrl": "/manus-storage/4523_c26709df.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4524",
+    "collection": "HERITAGE",
+    "reference": "4524",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4524.jpg",
+    "sourceFilename": "4524.jpg",
+    "sha256": "dbf49ec18705f41501780668ea8e682c19986ecea0a065c64e6f551673c8c6b3",
+    "imageUrl": "/manus-storage/4524_e9c5626a.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4525",
+    "collection": "HERITAGE",
+    "reference": "4525",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4525.jpg",
+    "sourceFilename": "4525.jpg",
+    "sha256": "a75274a9f2aaa0798a6f7f58eec622fe11ef38e16467cd8167ecd2aea614bda3",
+    "imageUrl": "/manus-storage/4525_b7cd3aac.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4526",
+    "collection": "HERITAGE",
+    "reference": "4526",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4526.jpg",
+    "sourceFilename": "4526.jpg",
+    "sha256": "5033c81fde0ab40b7cacaf76ac21f194fcf53076d95b01056cf3a279235747b0",
+    "imageUrl": "/manus-storage/4526_a77b6260.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4527",
+    "collection": "HERITAGE",
+    "reference": "4527",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4527.jpg",
+    "sourceFilename": "4527.jpg",
+    "sha256": "d56ec2a09a658e69b46a3f26a7ff30837e83d48a8c291bb6deee4f5919c79e94",
+    "imageUrl": "/manus-storage/4527_f490e956.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4528",
+    "collection": "HERITAGE",
+    "reference": "4528",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4528.jpg",
+    "sourceFilename": "4528.jpg",
+    "sha256": "e7ace556f15f66ac5ffc55bef51250891be8b3fbef42bc7faa617241d45e7f6b",
+    "imageUrl": "/manus-storage/4528_ef421739.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4529",
+    "collection": "HERITAGE",
+    "reference": "4529",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4529.jpg",
+    "sourceFilename": "4529.jpg",
+    "sha256": "5cc350d9fc1529a1fffdd7019f6d44fb4547064436292186464b6d153ff9259f",
+    "imageUrl": "/manus-storage/4529_a3c59c3b.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4530",
+    "collection": "HERITAGE",
+    "reference": "4530",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4530.jpg",
+    "sourceFilename": "4530.jpg",
+    "sha256": "bc6645cac9adc02ddd87e73e25a528ddaca4aa9e0f9af77b9fe34d16f86cff91",
+    "imageUrl": "/manus-storage/4530_ca4c055e.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4531",
+    "collection": "HERITAGE",
+    "reference": "4531",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4531.jpg",
+    "sourceFilename": "4531.jpg",
+    "sha256": "4947e8275ea629c66be785395380ae1cb1b89250c64c3acd184f8ddb01e6c1ca",
+    "imageUrl": "/manus-storage/4531_cfd5e0d5.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4532",
+    "collection": "HERITAGE",
+    "reference": "4532",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4532.jpg",
+    "sourceFilename": "4532.jpg",
+    "sha256": "45fe20a7334bc2b4c5899c90f8eaa46b88b52b3f144b026d53196c8e4d2740a8",
+    "imageUrl": "/manus-storage/4532_a37a4e9d.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4533",
+    "collection": "HERITAGE",
+    "reference": "4533",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4533.jpg",
+    "sourceFilename": "4533.jpg",
+    "sha256": "f61c4473b1b91c295780b07d5de718bc6b750b6ca104178fc8e9ee45a3e2f6b1",
+    "imageUrl": "/manus-storage/4533_ce73a69f.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4534",
+    "collection": "HERITAGE",
+    "reference": "4534",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4534.jpg",
+    "sourceFilename": "4534.jpg",
+    "sha256": "747045a9b5513c4fd4daef027b73135d3ee4b790e45a1a379fe5f2eedfa73722",
+    "imageUrl": "/manus-storage/4534_50f5881b.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4535",
+    "collection": "HERITAGE",
+    "reference": "4535",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4535.jpg",
+    "sourceFilename": "4535.jpg",
+    "sha256": "cba83716aef227dc9dc603b1a0091998626b5f3bfc8d8823b427725fb1bb7836",
+    "imageUrl": "/manus-storage/4535_c4abb83a.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4536",
+    "collection": "HERITAGE",
+    "reference": "4536",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4536.jpg",
+    "sourceFilename": "4536.jpg",
+    "sha256": "565809c7acda2fa94945ccddb75d2ee7c26d34ddc703ff02617daf82255a53bd",
+    "imageUrl": "/manus-storage/4536_eb8fb9ed.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4537",
+    "collection": "HERITAGE",
+    "reference": "4537",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4537.jpg",
+    "sourceFilename": "4537.jpg",
+    "sha256": "f1d18f934c0de1197bdda14c34406e53d71cadd2cb20c96025a78d839deaaf0a",
+    "imageUrl": "/manus-storage/4537_206041a7.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4538",
+    "collection": "HERITAGE",
+    "reference": "4538",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4538.jpg",
+    "sourceFilename": "4538.jpg",
+    "sha256": "740ebe1ee49314d9626398fa4de53d9b4027063157ebcbde42e4b925cff4f061",
+    "imageUrl": "/manus-storage/4538_8a9fdbfc.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4539",
+    "collection": "HERITAGE",
+    "reference": "4539",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4539.jpg",
+    "sourceFilename": "4539.jpg",
+    "sha256": "76ec5da8e89031222e17a8cce13a579a64179a682d172034e57144bf72987cbc",
+    "imageUrl": "/manus-storage/4539_dd4eec54.jpg"
+  },
+  {
+    "id": "stella:HERITAGE:4540",
+    "collection": "HERITAGE",
+    "reference": "4540",
+    "sourceArchive": "HERITAGE.zip",
+    "sourceMember": "HERITAGE/4540.jpg",
+    "sourceFilename": "4540.jpg",
+    "sha256": "7878ae796dfb328696d4c967b544a2524b2655c6b321b508df9321020ef40fd4",
+    "imageUrl": "/manus-storage/4540_3c4a2b8a.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2100",
+    "collection": "KALEIDOLUX",
+    "reference": "T2100",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2100.jpg",
+    "sourceFilename": "T2100.jpg",
+    "sha256": "b2e3c081b20cfa6e12e2bd256fe2611470c4741cccdcd9758b3b5565a3f5afac",
+    "imageUrl": "/manus-storage/T2100_083d8576.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2101",
+    "collection": "KALEIDOLUX",
+    "reference": "T2101",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2101.jpg",
+    "sourceFilename": "T2101.jpg",
+    "sha256": "accb86dc2b9a46f0d8c6d197341c606d2d9dd87946da7ad29d85c5a4595ae5a3",
+    "imageUrl": "/manus-storage/T2101_de99b904.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2102",
+    "collection": "KALEIDOLUX",
+    "reference": "T2102",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2102.jpg",
+    "sourceFilename": "T2102.jpg",
+    "sha256": "f51c42f3aeb2b057de3e32fd3e05b05aa5bcc4cc83b8dbed3a347c8c0c47cc37",
+    "imageUrl": "/manus-storage/T2102_0a6f15e0.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2103",
+    "collection": "KALEIDOLUX",
+    "reference": "T2103",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2103.jpg",
+    "sourceFilename": "T2103.jpg",
+    "sha256": "3ee5134b49cd8e916180d3441b2238aa76e14179eee9bc3aa1d4805c620e4023",
+    "imageUrl": "/manus-storage/T2103_95f9930c.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2104",
+    "collection": "KALEIDOLUX",
+    "reference": "T2104",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2104.jpg",
+    "sourceFilename": "T2104.jpg",
+    "sha256": "e2985c6d1904c0d3a33bdc77d8b737e11387229cee12df80993ae64945bebe55",
+    "imageUrl": "/manus-storage/T2104_316f5327.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2105",
+    "collection": "KALEIDOLUX",
+    "reference": "T2105",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2105.jpg",
+    "sourceFilename": "T2105.jpg",
+    "sha256": "9e3bd74dfb79a9c9c79f83bee5d3ce886af06a21f0aadb6030b4dedd811f4069",
+    "imageUrl": "/manus-storage/T2105_a5216b0d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2106",
+    "collection": "KALEIDOLUX",
+    "reference": "T2106",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2106.jpg",
+    "sourceFilename": "T2106.jpg",
+    "sha256": "5247f7b8dd009d78131180d7d865c1aae59d4d66b347cf3089b3dc2524e5e9c7",
+    "imageUrl": "/manus-storage/T2106_5ec5d11b.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2107",
+    "collection": "KALEIDOLUX",
+    "reference": "T2107",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2107.jpg",
+    "sourceFilename": "T2107.jpg",
+    "sha256": "21ae1e049a3677f2392d0f6d529bf813ad027a84921d468a3d237b5bb184662f",
+    "imageUrl": "/manus-storage/T2107_0f18636c.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2108",
+    "collection": "KALEIDOLUX",
+    "reference": "T2108",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2108.jpg",
+    "sourceFilename": "T2108.jpg",
+    "sha256": "eecb5062c4399252f2d24af8f4347c68089de34a8254ac2e17f5858115f6a9ca",
+    "imageUrl": "/manus-storage/T2108_cee838d8.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2109",
+    "collection": "KALEIDOLUX",
+    "reference": "T2109",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2109.jpg",
+    "sourceFilename": "T2109.jpg",
+    "sha256": "f82dffc614f2f56838ffab0c2a5495a5016df2f3de788170d1da8a72cdbdaaae",
+    "imageUrl": "/manus-storage/T2109_efecd170.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2110",
+    "collection": "KALEIDOLUX",
+    "reference": "T2110",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2110.jpg",
+    "sourceFilename": "T2110.jpg",
+    "sha256": "14b6fb26722b80541d67981067fb8b28120480fd0200ac0b34ef4ef9577510b9",
+    "imageUrl": "/manus-storage/T2110_1087594e.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2111",
+    "collection": "KALEIDOLUX",
+    "reference": "T2111",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2111.jpg",
+    "sourceFilename": "T2111.jpg",
+    "sha256": "e2e75eea6741c1c0c760539e6f2b75846f67333b1a12e61e7a091032774ff6c0",
+    "imageUrl": "/manus-storage/T2111_8fd4cfa8.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2112",
+    "collection": "KALEIDOLUX",
+    "reference": "T2112",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2112.jpg",
+    "sourceFilename": "T2112.jpg",
+    "sha256": "4e58cd1f53a2ea168a0396d2a7e3fa87a4c4853163478657990832449593213d",
+    "imageUrl": "/manus-storage/T2112_744eeb81.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2113",
+    "collection": "KALEIDOLUX",
+    "reference": "T2113",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2113.jpg",
+    "sourceFilename": "T2113.jpg",
+    "sha256": "fe1088b18fc5ba630ec72625b9188f756b660fee3a90f275ba111c820d3c40cd",
+    "imageUrl": "/manus-storage/T2113_53d2023d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2114",
+    "collection": "KALEIDOLUX",
+    "reference": "T2114",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2114.jpg",
+    "sourceFilename": "T2114.jpg",
+    "sha256": "cd124102e686a6bc620a8810ed9d8fae6a8cf5926e7e20d8367828a8a9b83446",
+    "imageUrl": "/manus-storage/T2114_4cc1cca1.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2115",
+    "collection": "KALEIDOLUX",
+    "reference": "T2115",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2115.jpg",
+    "sourceFilename": "T2115.jpg",
+    "sha256": "f293472562899b7c58a11daea62ed52393b70c904d16c740d0d90f18a772ddf4",
+    "imageUrl": "/manus-storage/T2115_ea198c2e.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2116",
+    "collection": "KALEIDOLUX",
+    "reference": "T2116",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2116.jpg",
+    "sourceFilename": "T2116.jpg",
+    "sha256": "4fc41485bca9b326658b94619107d755e05215ac724dcc805a563d465f41cede",
+    "imageUrl": "/manus-storage/T2116_c781ba41.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2117",
+    "collection": "KALEIDOLUX",
+    "reference": "T2117",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2117.jpg",
+    "sourceFilename": "T2117.jpg",
+    "sha256": "660f8dc51c15248897d1f2c0ebed8924d70644d9d6809fcbcd3e9d455c0a84f9",
+    "imageUrl": "/manus-storage/T2117_4af21012.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2118",
+    "collection": "KALEIDOLUX",
+    "reference": "T2118",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2118.jpg",
+    "sourceFilename": "T2118.jpg",
+    "sha256": "4a39453fa7e3dac20131b13ac661d032d5044dc93831d4c832637383103be7ef",
+    "imageUrl": "/manus-storage/T2118_58c6808d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2119",
+    "collection": "KALEIDOLUX",
+    "reference": "T2119",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2119.jpg",
+    "sourceFilename": "T2119.jpg",
+    "sha256": "8fe38f7b3d325cb91220edb57e403fec14d4d7a09bd5ed28533f4c4ad34bc68d",
+    "imageUrl": "/manus-storage/T2119_bfb0134d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2120",
+    "collection": "KALEIDOLUX",
+    "reference": "T2120",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2120.jpg",
+    "sourceFilename": "T2120.jpg",
+    "sha256": "6f537b4631b2db5e4fecb17953d6083099d12c31619c548518f43452b664e0da",
+    "imageUrl": "/manus-storage/T2120_51a576fc.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2121",
+    "collection": "KALEIDOLUX",
+    "reference": "T2121",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2121.jpg",
+    "sourceFilename": "T2121.jpg",
+    "sha256": "2ad9dc16bb4ad2c5a5384223e94a11ff4c78e8ab7c961d89e7c8981f9088f1f7",
+    "imageUrl": "/manus-storage/T2121_62674572.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2122",
+    "collection": "KALEIDOLUX",
+    "reference": "T2122",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2122.jpg",
+    "sourceFilename": "T2122.jpg",
+    "sha256": "e7a0c80033ad219e7f7cbff6086df472daf64ca39580f31ae64747ab537de0c3",
+    "imageUrl": "/manus-storage/T2122_1e1c1854.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2123",
+    "collection": "KALEIDOLUX",
+    "reference": "T2123",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2123.jpg",
+    "sourceFilename": "T2123.jpg",
+    "sha256": "5cee178d9a0afb055f733bf041ae491d460f0444b27e7b9a88054587ceeea572",
+    "imageUrl": "/manus-storage/T2123_561cbf23.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2124",
+    "collection": "KALEIDOLUX",
+    "reference": "T2124",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2124.jpg",
+    "sourceFilename": "T2124.jpg",
+    "sha256": "f8dff0fb5f54259d3faae2685ac0845c55bc918521f1cec714ecc39e95ac807b",
+    "imageUrl": "/manus-storage/T2124_aed3de75.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2125",
+    "collection": "KALEIDOLUX",
+    "reference": "T2125",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2125.jpg",
+    "sourceFilename": "T2125.jpg",
+    "sha256": "2038e980f1a1a1f7f8546cd95c04f40935a1a5c35f41969a7ebf26a7a5c1e4ea",
+    "imageUrl": "/manus-storage/T2125_345a686a.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2126",
+    "collection": "KALEIDOLUX",
+    "reference": "T2126",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2126.jpg",
+    "sourceFilename": "T2126.jpg",
+    "sha256": "f1a64898ac8992cba19e3a59228a371775473bc75f7574e3759d764f9d8fe506",
+    "imageUrl": "/manus-storage/T2126_87cfe285.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2127",
+    "collection": "KALEIDOLUX",
+    "reference": "T2127",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2127.jpg",
+    "sourceFilename": "T2127.jpg",
+    "sha256": "6d8df29bc8ece5478db24b1432c14166ff555854cca028c94d272ae4c98f3bc0",
+    "imageUrl": "/manus-storage/T2127_c127f8e8.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2128",
+    "collection": "KALEIDOLUX",
+    "reference": "T2128",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2128.jpg",
+    "sourceFilename": "T2128.jpg",
+    "sha256": "5861966d5c5b9127b028d5d53d2d2ec981f39a8ace57f7b511c9e3c8a441d807",
+    "imageUrl": "/manus-storage/T2128_969530ce.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2129",
+    "collection": "KALEIDOLUX",
+    "reference": "T2129",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2129.jpg",
+    "sourceFilename": "T2129.jpg",
+    "sha256": "ff4fea6f54f66906cce2aaaf711827d3d33f18f4f88632b9f94d912755408df5",
+    "imageUrl": "/manus-storage/T2129_77c1daeb.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2130",
+    "collection": "KALEIDOLUX",
+    "reference": "T2130",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2130.jpg",
+    "sourceFilename": "T2130.jpg",
+    "sha256": "6fef26ab58036d5a589317ce9a0b867650c1e684f3afa409798c0a6cf5a627f4",
+    "imageUrl": "/manus-storage/T2130_ca9db67b.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2131",
+    "collection": "KALEIDOLUX",
+    "reference": "T2131",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2131.jpg",
+    "sourceFilename": "T2131.jpg",
+    "sha256": "967c57a59eaf70916b905a5461cc4e009902ce279fc7edd8203f66c6ae3c474c",
+    "imageUrl": "/manus-storage/T2131_cafbf2b6.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2132",
+    "collection": "KALEIDOLUX",
+    "reference": "T2132",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2132.jpg",
+    "sourceFilename": "T2132.jpg",
+    "sha256": "26d01909c46f930a97a923974f31224428a52fd9a5b99cf7f99f7b049334da72",
+    "imageUrl": "/manus-storage/T2132_cad38ea5.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2133",
+    "collection": "KALEIDOLUX",
+    "reference": "T2133",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2133.jpg",
+    "sourceFilename": "T2133.jpg",
+    "sha256": "6ab07e9b739153b42f284b71d31d8606c7a04e27dc9f3bdcb5b1c2715cca5052",
+    "imageUrl": "/manus-storage/T2133_6eb440ba.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2134",
+    "collection": "KALEIDOLUX",
+    "reference": "T2134",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2134.jpg",
+    "sourceFilename": "T2134.jpg",
+    "sha256": "1e060ff89f093b52171f3a5d87ae5e1198748aad751c3290125a6c81ea90a969",
+    "imageUrl": "/manus-storage/T2134_b4267313.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2135",
+    "collection": "KALEIDOLUX",
+    "reference": "T2135",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2135.jpg",
+    "sourceFilename": "T2135.jpg",
+    "sha256": "d7abf24d9e1c377fdfe45f90803066a4a963f75ed34482ad2dd7d72bbc4d6fff",
+    "imageUrl": "/manus-storage/T2135_e9bc8f3c.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2136",
+    "collection": "KALEIDOLUX",
+    "reference": "T2136",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2136.jpg",
+    "sourceFilename": "T2136.jpg",
+    "sha256": "0c5ea79b1dae5e60d0f241e8e4fc87a6a1121441688e9fea8bd08f52630b2718",
+    "imageUrl": "/manus-storage/T2136_3f4916d5.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2137",
+    "collection": "KALEIDOLUX",
+    "reference": "T2137",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2137.jpg",
+    "sourceFilename": "T2137.jpg",
+    "sha256": "583d3c030cd2f1fb419c1cc71f103601bd97d97e5a226e658337128a335ce91f",
+    "imageUrl": "/manus-storage/T2137_b7ff5e1c.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2138",
+    "collection": "KALEIDOLUX",
+    "reference": "T2138",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2138.jpg",
+    "sourceFilename": "T2138.jpg",
+    "sha256": "ae908f7a66f267fc1d30f819bbbf51903130ea82bd3fbbd6f9a338d284c70336",
+    "imageUrl": "/manus-storage/T2138_5b478273.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2139",
+    "collection": "KALEIDOLUX",
+    "reference": "T2139",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2139.jpg",
+    "sourceFilename": "T2139.jpg",
+    "sha256": "ff753c0ff1f3ccb0b1c585f830248a6c2ef82aee18f30161a388ef902d592331",
+    "imageUrl": "/manus-storage/T2139_64e9f1b7.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2140",
+    "collection": "KALEIDOLUX",
+    "reference": "T2140",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2140.jpg",
+    "sourceFilename": "T2140.jpg",
+    "sha256": "7f1bfe0fd3b6daf16b1ec4c7267ae631f04648192aefcb6d4a6761d3f0a035eb",
+    "imageUrl": "/manus-storage/T2140_3948995a.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2141",
+    "collection": "KALEIDOLUX",
+    "reference": "T2141",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2141.jpg",
+    "sourceFilename": "T2141.jpg",
+    "sha256": "324efacc1f153b27a2e71bcb89fb4c8c9fbb80765f7741fb8867bd926ba1df18",
+    "imageUrl": "/manus-storage/T2141_dc1150a7.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2142",
+    "collection": "KALEIDOLUX",
+    "reference": "T2142",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2142.jpg",
+    "sourceFilename": "T2142.jpg",
+    "sha256": "ee6226beba65446b6de2c8bd7a885856834a2e7cba5517b2618fd228e2c6d172",
+    "imageUrl": "/manus-storage/T2142_9b3924b5.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2143",
+    "collection": "KALEIDOLUX",
+    "reference": "T2143",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2143.jpg",
+    "sourceFilename": "T2143.jpg",
+    "sha256": "1c7a4484e1b83618d21648a29025db41d5b5494f148d108c9e77f84cea8d6949",
+    "imageUrl": "/manus-storage/T2143_6ba0ac68.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2144",
+    "collection": "KALEIDOLUX",
+    "reference": "T2144",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2144.jpg",
+    "sourceFilename": "T2144.jpg",
+    "sha256": "c3b4247d48208306409b240a1e78029d24b9d691019185ff2a7047f5de92ac11",
+    "imageUrl": "/manus-storage/T2144_a070044d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2145",
+    "collection": "KALEIDOLUX",
+    "reference": "T2145",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2145.jpg",
+    "sourceFilename": "T2145.jpg",
+    "sha256": "4489cac2a93becc2a394180b0defedc60a216ce66a620a039013fd9b0b81f412",
+    "imageUrl": "/manus-storage/T2145_b8a70eba.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2146",
+    "collection": "KALEIDOLUX",
+    "reference": "T2146",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2146.jpg",
+    "sourceFilename": "T2146.jpg",
+    "sha256": "4905940ccfee6d8ce16379201413bb073ab20ea088495983fe6331d4d80df9fb",
+    "imageUrl": "/manus-storage/T2146_a5c9578c.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2147",
+    "collection": "KALEIDOLUX",
+    "reference": "T2147",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2147.jpg",
+    "sourceFilename": "T2147.jpg",
+    "sha256": "8a173bdd95eecc038a07814eee1eae8472d04461d6301c66c0e5bbc89a818e50",
+    "imageUrl": "/manus-storage/T2147_3da7c24d.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2148",
+    "collection": "KALEIDOLUX",
+    "reference": "T2148",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2148.jpg",
+    "sourceFilename": "T2148.jpg",
+    "sha256": "856cc812f70c90e509f6c123fc859ea0391489adb2461865d8d6e6af8ac0a9ad",
+    "imageUrl": "/manus-storage/T2148_65b30310.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2149",
+    "collection": "KALEIDOLUX",
+    "reference": "T2149",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2149.jpg",
+    "sourceFilename": "T2149.jpg",
+    "sha256": "85e8dc3d6b65d17195209cadcfd4c4f1a00263cf67acff36220089bb6e474e49",
+    "imageUrl": "/manus-storage/T2149_60cf4be1.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2150",
+    "collection": "KALEIDOLUX",
+    "reference": "T2150",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2150.jpg",
+    "sourceFilename": "T2150.jpg",
+    "sha256": "08a60fb4d1d073ad101525dd6fdeefeb418d30fd52c0067ca1de17c4e8115201",
+    "imageUrl": "/manus-storage/T2150_ab698e58.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2151",
+    "collection": "KALEIDOLUX",
+    "reference": "T2151",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2151.jpg",
+    "sourceFilename": "T2151.jpg",
+    "sha256": "5b130e7f13257630e2e1b89d0a4ee8925ad4dba3787e2e66a0feb8cc6e5b424c",
+    "imageUrl": "/manus-storage/T2151_c7b7d5c6.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2152",
+    "collection": "KALEIDOLUX",
+    "reference": "T2152",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2152.jpg",
+    "sourceFilename": "T2152.jpg",
+    "sha256": "ad91c3e013d8ddcde42cda36cd5caba7730be1a4a3b70f10a1f123461af90d14",
+    "imageUrl": "/manus-storage/T2152_f50b74e2.jpg"
+  },
+  {
+    "id": "stella:KALEIDOLUX:T2153",
+    "collection": "KALEIDOLUX",
+    "reference": "T2153",
+    "sourceArchive": "KALEIDOLUX.zip",
+    "sourceMember": "KALEIDOLUX/T2153.jpg",
+    "sourceFilename": "T2153.jpg",
+    "sha256": "8685c21e9be1ec71000c69b6a9a58c534b3656d8eed2697e03200e7458c4ff82",
+    "imageUrl": "/manus-storage/T2153_03287a02.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6701",
+    "collection": "NEW EMPIRE",
+    "reference": "6701",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6701.jpg",
+    "sourceFilename": "6701.jpg",
+    "sha256": "5e214bacd8ea27aae7512646c21e7719b696c30ff653681d1f69bd01f629cddc",
+    "imageUrl": "/manus-storage/6701_7077e495.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6702",
+    "collection": "NEW EMPIRE",
+    "reference": "6702",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6702.jpg",
+    "sourceFilename": "6702.jpg",
+    "sha256": "f84c00183d20ae10908cb0931447cd836be4aefa5466f9c52689573f4dfb2fe5",
+    "imageUrl": "/manus-storage/6702_feda528e.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6703",
+    "collection": "NEW EMPIRE",
+    "reference": "6703",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6703.jpg",
+    "sourceFilename": "6703.jpg",
+    "sha256": "52076ed7725ad346679993d35e3e7c1f04f0db4cdda1949f1c8ef3db8b998e61",
+    "imageUrl": "/manus-storage/6703_b7d3c250.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6704",
+    "collection": "NEW EMPIRE",
+    "reference": "6704",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6704.jpg",
+    "sourceFilename": "6704.jpg",
+    "sha256": "1ce128b7462c8baae645641373a28f5f89549ba98c287c2f579b5e9507c07203",
+    "imageUrl": "/manus-storage/6704_2a9e5f2d.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6705",
+    "collection": "NEW EMPIRE",
+    "reference": "6705",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6705.jpg",
+    "sourceFilename": "6705.jpg",
+    "sha256": "899b27da3a98d02e0d22b0cee96b932297031cf298135546aaad270ffa4cfc58",
+    "imageUrl": "/manus-storage/6705_450701cc.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6706",
+    "collection": "NEW EMPIRE",
+    "reference": "6706",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6706.jpg",
+    "sourceFilename": "6706.jpg",
+    "sha256": "736c49ea03caab293f3eae857fad5b4c4b81b12fc112bbb05f576ec1d5bd090d",
+    "imageUrl": "/manus-storage/6706_34ef86e7.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6707",
+    "collection": "NEW EMPIRE",
+    "reference": "6707",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6707.jpg",
+    "sourceFilename": "6707.jpg",
+    "sha256": "c46460de6b077e26a99ee0bee3c811a383b9b43fa1deb84ee39d1d71ab49dbae",
+    "imageUrl": "/manus-storage/6707_21811866.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6708",
+    "collection": "NEW EMPIRE",
+    "reference": "6708",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6708.jpg",
+    "sourceFilename": "6708.jpg",
+    "sha256": "790d685cf83f4c42fdb67de200faa2953ff0b8efc0d5f43c99e717616e30a926",
+    "imageUrl": "/manus-storage/6708_103b5154.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6709",
+    "collection": "NEW EMPIRE",
+    "reference": "6709",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6709.jpg",
+    "sourceFilename": "6709.jpg",
+    "sha256": "5b5a48a59c0a61159455045293e5e61f1dcf3ed568da3e3a04490e08eb4d6ef8",
+    "imageUrl": "/manus-storage/6709_854bec04.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6710",
+    "collection": "NEW EMPIRE",
+    "reference": "6710",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6710.jpg",
+    "sourceFilename": "6710.jpg",
+    "sha256": "14418ad39f672f6361218d7c39437f6495f0ddfd6c065c4b8e162a78663d7bd5",
+    "imageUrl": "/manus-storage/6710_1b2e421c.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6711",
+    "collection": "NEW EMPIRE",
+    "reference": "6711",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6711.jpg",
+    "sourceFilename": "6711.jpg",
+    "sha256": "6485a4809f9f8254d60114878c3134b8f16b5c5644aff9a1e5a9f8d028c6406e",
+    "imageUrl": "/manus-storage/6711_89d81434.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6712",
+    "collection": "NEW EMPIRE",
+    "reference": "6712",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6712.jpg",
+    "sourceFilename": "6712.jpg",
+    "sha256": "71eab130a46afe42cfa970cc968fd1265d5437c84153092b9684340994ad13be",
+    "imageUrl": "/manus-storage/6712_3c031b3e.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6713",
+    "collection": "NEW EMPIRE",
+    "reference": "6713",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6713.jpg",
+    "sourceFilename": "6713.jpg",
+    "sha256": "93f1f14552bcc3eb30f9da4f40d8aad832f25ccc90c93c0a2ffdd676c682016a",
+    "imageUrl": "/manus-storage/6713_e0fbc45d.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6714",
+    "collection": "NEW EMPIRE",
+    "reference": "6714",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6714.jpg",
+    "sourceFilename": "6714.jpg",
+    "sha256": "2bfb798e690c7e74b55f6b027ead84054b17d6f8eb60184c889f0e178d015d84",
+    "imageUrl": "/manus-storage/6714_b9a3f98c.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6715",
+    "collection": "NEW EMPIRE",
+    "reference": "6715",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6715.jpg",
+    "sourceFilename": "6715.jpg",
+    "sha256": "b922f8b27abd2a0afd3a8b04fe17b4892a5ddf03a540dfe656fb0d1af98c1ebd",
+    "imageUrl": "/manus-storage/6715_426a5ecc.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6716",
+    "collection": "NEW EMPIRE",
+    "reference": "6716",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6716.jpg",
+    "sourceFilename": "6716.jpg",
+    "sha256": "736633a2ebdaa5c6b65377872d1a8845cf8bca490a6930d435acaa1c638b4a3a",
+    "imageUrl": "/manus-storage/6716_f3d12c94.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6717",
+    "collection": "NEW EMPIRE",
+    "reference": "6717",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6717.jpg",
+    "sourceFilename": "6717.jpg",
+    "sha256": "6b98c89aeb11f0e97ec53924da52044898c1a1c7b277bcc2a90b6f691bbcddbd",
+    "imageUrl": "/manus-storage/6717_d7ffcf6a.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6718",
+    "collection": "NEW EMPIRE",
+    "reference": "6718",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6718.jpg",
+    "sourceFilename": "6718.jpg",
+    "sha256": "3eba8cecbcd64d1e2d3afb3a7897e2354c5d23330b7e917119c18890b3116fbf",
+    "imageUrl": "/manus-storage/6718_190186bf.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6719",
+    "collection": "NEW EMPIRE",
+    "reference": "6719",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6719.jpg",
+    "sourceFilename": "6719.jpg",
+    "sha256": "98b51272c2f9ce6a3565fd30941091c8516709577990155773231db3f49f760e",
+    "imageUrl": "/manus-storage/6719_4d04247c.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6720",
+    "collection": "NEW EMPIRE",
+    "reference": "6720",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6720.jpg",
+    "sourceFilename": "6720.jpg",
+    "sha256": "9260963b876d1fedae52ad04fc1a4f1b79453a21c9ccc3db32e836c50769a455",
+    "imageUrl": "/manus-storage/6720_c139998e.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6721",
+    "collection": "NEW EMPIRE",
+    "reference": "6721",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6721.jpg",
+    "sourceFilename": "6721.jpg",
+    "sha256": "399b975ebd0441589d4adf68e18bae7a834e4296215abdea41ae218f6ea084c0",
+    "imageUrl": "/manus-storage/6721_9c477623.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6722",
+    "collection": "NEW EMPIRE",
+    "reference": "6722",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6722.jpg",
+    "sourceFilename": "6722.jpg",
+    "sha256": "9260963b876d1fedae52ad04fc1a4f1b79453a21c9ccc3db32e836c50769a455",
+    "imageUrl": "/manus-storage/6722_9a26b7ba.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6723",
+    "collection": "NEW EMPIRE",
+    "reference": "6723",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6723.jpg",
+    "sourceFilename": "6723.jpg",
+    "sha256": "e2625d35fb1a42620b93521abbf7ed2122e2ccb630efc4a69d3a93e5ae33070c",
+    "imageUrl": "/manus-storage/6723_3abc5b3e.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6724",
+    "collection": "NEW EMPIRE",
+    "reference": "6724",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6724.jpg",
+    "sourceFilename": "6724.jpg",
+    "sha256": "d9969d7db935ff071a650b96729d2b4bbe839773dc2275864f16972a31ed2d2e",
+    "imageUrl": "/manus-storage/6724_e98ebea0.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6725",
+    "collection": "NEW EMPIRE",
+    "reference": "6725",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6725.jpg",
+    "sourceFilename": "6725.jpg",
+    "sha256": "b6417b19c68ceaeca7232148622b9857e8e4f0c4d23e2074beb39867fdec6dfa",
+    "imageUrl": "/manus-storage/6725_f37e8b1c.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6726",
+    "collection": "NEW EMPIRE",
+    "reference": "6726",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6726.jpg",
+    "sourceFilename": "6726.jpg",
+    "sha256": "c6b14bf2d36bb4956cf8f7cbe0d80d2e472e70f3302afb615225a96bed9b588a",
+    "imageUrl": "/manus-storage/6726_748855aa.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6727",
+    "collection": "NEW EMPIRE",
+    "reference": "6727",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6727.jpg",
+    "sourceFilename": "6727.jpg",
+    "sha256": "cdc80e073a236afa24e38d08f0410592c3ea795604f81d8911b7f57345342c08",
+    "imageUrl": "/manus-storage/6727_7fd84436.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6728",
+    "collection": "NEW EMPIRE",
+    "reference": "6728",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6728.jpg",
+    "sourceFilename": "6728.jpg",
+    "sha256": "b0acd590ba08104f9136f7ef66b911ca5cb29346164eba601c24d6a535b716ee",
+    "imageUrl": "/manus-storage/6728_05f68117.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6729",
+    "collection": "NEW EMPIRE",
+    "reference": "6729",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6729.jpg",
+    "sourceFilename": "6729.jpg",
+    "sha256": "4305f95914929b6eb642d7d9bf8db7f8af05db5a790dc37892f5d52d318be0b0",
+    "imageUrl": "/manus-storage/6729_a73c31ed.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6730",
+    "collection": "NEW EMPIRE",
+    "reference": "6730",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6730.jpg",
+    "sourceFilename": "6730.jpg",
+    "sha256": "d4d929423e20012e02b2d149a818152f4339a9817bb6ee92ffc53fa1304726ad",
+    "imageUrl": "/manus-storage/6730_17ec21ee.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6731",
+    "collection": "NEW EMPIRE",
+    "reference": "6731",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6731.jpg",
+    "sourceFilename": "6731.jpg",
+    "sha256": "4d8f7c1b729b80bd5eb2ee6103f374aa5bb558cfe7cf510a948b2c087d48f6e6",
+    "imageUrl": "/manus-storage/6731_754396b6.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6732",
+    "collection": "NEW EMPIRE",
+    "reference": "6732",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6732.jpg",
+    "sourceFilename": "6732.jpg",
+    "sha256": "b4fc36ccd826e05e8ea170f2aeed3a5257524be24e7a58c6d2bfed5cd6269821",
+    "imageUrl": "/manus-storage/6732_97fa36fb.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6733",
+    "collection": "NEW EMPIRE",
+    "reference": "6733",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6733.jpg",
+    "sourceFilename": "6733.jpg",
+    "sha256": "7aba1770965f202e890be8eba55679667bfdcad64cbb7ebad700ee6cba79498d",
+    "imageUrl": "/manus-storage/6733_8168272d.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6734",
+    "collection": "NEW EMPIRE",
+    "reference": "6734",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6734.jpg",
+    "sourceFilename": "6734.jpg",
+    "sha256": "704b81fa93fb614df8407977bc2a820b7946737af327b32e6f4767cf2b92d2df",
+    "imageUrl": "/manus-storage/6734_f1f1fbb0.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6735",
+    "collection": "NEW EMPIRE",
+    "reference": "6735",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6735.jpg",
+    "sourceFilename": "6735.jpg",
+    "sha256": "40e7fe18df57261946d7a764ab91acf4405e96b52280f721619582b560c5072d",
+    "imageUrl": "/manus-storage/6735_9f92b12f.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6736",
+    "collection": "NEW EMPIRE",
+    "reference": "6736",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6736.jpg",
+    "sourceFilename": "6736.jpg",
+    "sha256": "51d0979f6746b020b66427424129c645796d6b8db92fbea22c0bb7f4d93e1fc8",
+    "imageUrl": "/manus-storage/6736_82612454.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6737",
+    "collection": "NEW EMPIRE",
+    "reference": "6737",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6737.jpg",
+    "sourceFilename": "6737.jpg",
+    "sha256": "0e4cadf9cdacafc252fd44894b4a2cd98ea38c3e106a61368987e8e5f9a32da6",
+    "imageUrl": "/manus-storage/6737_9c00060a.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6738",
+    "collection": "NEW EMPIRE",
+    "reference": "6738",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6738.jpg",
+    "sourceFilename": "6738.jpg",
+    "sha256": "2fe1ca85f6912f5b662c1ea24dd3a66d605b38b4ae589a97b9b676889d13aff7",
+    "imageUrl": "/manus-storage/6738_10fc4192.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6739",
+    "collection": "NEW EMPIRE",
+    "reference": "6739",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6739.jpg",
+    "sourceFilename": "6739.jpg",
+    "sha256": "7f82c65c5a0d9248723b9cf1f8d7df0b4e7fd32bcc20d508b549770c0088278f",
+    "imageUrl": "/manus-storage/6739_1f6d64a6.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6740",
+    "collection": "NEW EMPIRE",
+    "reference": "6740",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6740.jpg",
+    "sourceFilename": "6740.jpg",
+    "sha256": "7d9b57fbee7d39f69a33d8478ba5b8f4380bae8186c101236703f507aaec5fd7",
+    "imageUrl": "/manus-storage/6740_f5379a2b.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6741",
+    "collection": "NEW EMPIRE",
+    "reference": "6741",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6741.jpg",
+    "sourceFilename": "6741.jpg",
+    "sha256": "1949910541e9266b7db7dfd9a71c5f92f17f174228d147fee3bfc1b455f6b675",
+    "imageUrl": "/manus-storage/6741_9f86bc91.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6742",
+    "collection": "NEW EMPIRE",
+    "reference": "6742",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6742.jpg",
+    "sourceFilename": "6742.jpg",
+    "sha256": "efcd9a272fab80da17992882ce746f70c4c17a3febae4febb023eb95369c94fc",
+    "imageUrl": "/manus-storage/6742_64dc6705.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6743",
+    "collection": "NEW EMPIRE",
+    "reference": "6743",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6743.jpg",
+    "sourceFilename": "6743.jpg",
+    "sha256": "4c1ba099bf6c7572ff12702315b3a4bc2f8ab2a138f380b960fa66a4fe76ea5a",
+    "imageUrl": "/manus-storage/6743_04e061be.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6744",
+    "collection": "NEW EMPIRE",
+    "reference": "6744",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6744.jpg",
+    "sourceFilename": "6744.jpg",
+    "sha256": "c51290a18b15229a1cb5502eaa5d169266b37b43d09e30d51ee99320b0f439f2",
+    "imageUrl": "/manus-storage/6744_d37af8ed.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6745",
+    "collection": "NEW EMPIRE",
+    "reference": "6745",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6745.jpg",
+    "sourceFilename": "6745.jpg",
+    "sha256": "db9a54aee5d995aec0bd15e828b05211a5280492cd0791af219c266835689f41",
+    "imageUrl": "/manus-storage/6745_47026ac7.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6746",
+    "collection": "NEW EMPIRE",
+    "reference": "6746",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6746.jpg",
+    "sourceFilename": "6746.jpg",
+    "sha256": "c41223dc1e50e8c92de48107329df7c434f24d4927805d2b230fe68f6912329d",
+    "imageUrl": "/manus-storage/6746_9831669e.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6747",
+    "collection": "NEW EMPIRE",
+    "reference": "6747",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6747.jpg",
+    "sourceFilename": "6747.jpg",
+    "sha256": "ebf222a83a331192393894ae8e0a78a55ba11beec0104822a1c02903ed4e5d03",
+    "imageUrl": "/manus-storage/6747_219291e0.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6748",
+    "collection": "NEW EMPIRE",
+    "reference": "6748",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6748.jpg",
+    "sourceFilename": "6748.jpg",
+    "sha256": "4eb8bf071bc545bcd1767d1678dab380b37524233355c7f072eb2e5a4b108fe3",
+    "imageUrl": "/manus-storage/6748_9c56c8ee.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6749",
+    "collection": "NEW EMPIRE",
+    "reference": "6749",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6749.jpg",
+    "sourceFilename": "6749.jpg",
+    "sha256": "8a230cf70a873043dfc3ab9ab5e202b1003a0f239c1223c0d9f1630c1547d7bf",
+    "imageUrl": "/manus-storage/6749_19e997d9.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6750",
+    "collection": "NEW EMPIRE",
+    "reference": "6750",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6750.jpg",
+    "sourceFilename": "6750.jpg",
+    "sha256": "c9182f76356d5dc0c477ffe553d80cc33ae0380297d3e5ae67b7c147a7b689c2",
+    "imageUrl": "/manus-storage/6750_c3c042cf.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6751",
+    "collection": "NEW EMPIRE",
+    "reference": "6751",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6751.jpg",
+    "sourceFilename": "6751.jpg",
+    "sha256": "e22942c72c7d0a427f9109d62774c4f164723f6864f1da5e7652534ff991c382",
+    "imageUrl": "/manus-storage/6751_12476c74.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6752",
+    "collection": "NEW EMPIRE",
+    "reference": "6752",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6752.jpg",
+    "sourceFilename": "6752.jpg",
+    "sha256": "0e16168189cf1010cac124fba28d4c1f7dea06fbf2a910e190ec0a34ed6c74b3",
+    "imageUrl": "/manus-storage/6752_416a5b57.jpg"
+  },
+  {
+    "id": "stella:NEW EMPIRE:6753",
+    "collection": "NEW EMPIRE",
+    "reference": "6753",
+    "sourceArchive": "NEWEMPIRE.zip",
+    "sourceMember": "NEW EMPIRE/6753.jpg",
+    "sourceFilename": "6753.jpg",
+    "sha256": "84747ffeb4b5f676ad15c0a0cbf796cf63c63143d9cfc0da765c4eb171eac9d6",
+    "imageUrl": "/manus-storage/6753_358d65e2.jpg"
+  }
+]
